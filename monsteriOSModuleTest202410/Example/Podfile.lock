@@ -1,0 +1,16 @@
+PODS:
+  - monsteriOSModuleTest202410 (0.1.0)
+
+DEPENDENCIES:
+  - monsteriOSModuleTest202410 (from `../`)
+
+EXTERNAL SOURCES:
+  monsteriOSModuleTest202410:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  monsteriOSModuleTest202410: b26dac326e29c5b68d8b856cfe352386572537de
+
+PODFILE CHECKSUM: 96893e39eecd0e938bca405c6542cd4562a228ae
+
+COCOAPODS: 1.15.2

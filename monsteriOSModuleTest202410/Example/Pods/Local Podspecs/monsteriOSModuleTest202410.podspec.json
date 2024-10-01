@@ -1,0 +1,22 @@
+{
+  "name": "monsteriOSModuleTest202410",
+  "version": "0.1.0",
+  "summary": "A short description of monsteriOSModuleTest202410.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Tiny-Monster/monsteriOSModuleTest202410",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Tiny-Monster": "592911874@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/Tiny-Monster/monsteriOSModuleTest202410.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "monsteriOSModuleTest202410/Classes/**/*"
+}

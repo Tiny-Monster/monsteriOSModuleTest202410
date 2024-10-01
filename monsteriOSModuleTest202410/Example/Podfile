@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'monsteriOSModuleTest202410_Example' do
+  pod 'monsteriOSModuleTest202410', :path => '../'
+
+  target 'monsteriOSModuleTest202410_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

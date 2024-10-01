@@ -1,0 +1,6 @@
+framework module monsteriOSModuleTest202410 {
+  umbrella header "monsteriOSModuleTest202410-umbrella.h"
+
+  export *
+  module * { export * }
+}
